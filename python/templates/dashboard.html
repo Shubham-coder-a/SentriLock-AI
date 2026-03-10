@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>SentriLock AI Dashboard</title>
+</head>
+
+<body>
+
+    <h1>SentriLock AI Security Dashboard</h1>
+
+    <table border="1">
+
+        <tr>
+            <th>MAC Address</th>
+            <th>Status</th>
+        </tr>
+
+        {% for device in devices %}
+
+        <tr>
+
+            <td>{{ device }}</td>
+
+            <td>Active</td>
+
+        </tr>
+
+        {% endfor %}
+
+    </table>
+
+</body>
+
+</html>

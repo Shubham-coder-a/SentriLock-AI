@@ -3,6 +3,7 @@ from wifi_scanner import scan_wifi
 
 app = Flask(__name__)
 
+
 @app.route("/")
 def home():
 

@@ -5,12 +5,18 @@ from logger import log_alert
 from vendor_lookup import get_vendor
 from device_tracker import check_new_devices
 from hostname_lookup import get_hostname
+from alarm import intruder_alarm
+from camera_capture import capture_intruder
+
 
 def scan_wifi():
 
     print("Scanning network for connected devices...\n")
 
+    devices = []
+
     try:
+
         result = subprocess.check_output("arp -a", shell=True).decode()
 
         pattern = r"(\d+\.\d+\.\d+\.\d+)\s+([0-9a-fA-F\-]{17})"
@@ -36,15 +42,31 @@ def scan_wifi():
 
             if mac in KNOWN_DEVICES:
 
-                print(f"✅ Known Device: {KNOWN_DEVICES[mac]} | IP: {ip} | Host: {hostname}")
+                status = "Known"
+
+                print(f"✅ Known Device: {KNOWN_DEVICES[mac]} | IP: {ip}")
 
             else:
 
-                alert = f"⚠ Unknown device detected: {mac} | Vendor: {vendor} | IP: {ip} | Host: {hostname}"
+                status = "Unknown"
+
+                alert = f"⚠ Unknown device detected: {mac} | IP: {ip}"
 
                 print(alert)
 
+                intruder_alarm()
+
+                capture_intruder()
+
                 log_alert(alert)
+
+            devices.append({
+                "ip": ip,
+                "mac": mac,
+                "vendor": vendor,
+                "hostname": hostname,
+                "status": status
+            })
 
         new_devices = check_new_devices(current_devices)
 
@@ -56,7 +78,7 @@ def scan_wifi():
 
             log_alert(f"New device joined network: {mac} | Vendor: {vendor}")
 
-        return list(current_devices)
+        return devices
 
     except Exception as e:
         print("Error scanning network:", e)

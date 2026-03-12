@@ -16,3 +16,197 @@
 [2026-03-11 01:28:47] New device joined network: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor
 [2026-03-11 01:32:58] ⚠ Unknown device detected: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
 [2026-03-11 01:32:58] New device joined network: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor
+[2026-03-11 01:48:16] ⚠ Unknown device detected: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 01:48:16] New device joined network: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor
+[2026-03-11 01:55:39] ⚠ Unknown device detected: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 01:55:39] New device joined network: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor
+[2026-03-11 01:55:57] ⚠ Unknown device detected: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 01:59:31] ⚠ Unknown device detected: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 01:59:31] New device joined network: da-08-aa-c7-7d-cf | Vendor: Unknown Vendor
+[2026-03-11 22:27:40] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:27:40] New device joined network: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor
+[2026-03-11 22:46:34] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:46:34] New device joined network: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor
+[2026-03-11 22:46:46] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:46:56] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:07] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:17] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:27] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:37] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:48] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:47:58] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:48:08] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:48:19] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:48:29] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:48:39] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:48:50] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:49:00] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:56:56] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:56:56] New device joined network: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor
+[2026-03-11 22:57:07] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:57:17] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:57:28] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:57:38] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:57:49] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:05] ⚠ Unknown device detected: ae-3a-28-cf-6e-23 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:15] ⚠ Unknown device detected: 86-7a-74-88-c5-4a | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:15] New device joined network: 86-7a-74-88-c5-4a | Vendor: Unknown Vendor
+[2026-03-11 22:58:26] ⚠ Unknown device detected: 86-7a-74-88-c5-4a | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:47] ⚠ Unknown device detected: 86-7a-74-88-c5-4a | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:57] ⚠ Unknown device detected: e6-ec-c3-bf-23-19 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:58:57] New device joined network: e6-ec-c3-bf-23-19 | Vendor: Unknown Vendor
+[2026-03-11 22:59:08] ⚠ Unknown device detected: e6-ec-c3-bf-23-19 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:59:18] ⚠ Unknown device detected: e6-ec-c3-bf-23-19 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 22:59:39] ⚠ Unknown device detected: e6-ec-c3-bf-23-19 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:00] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:00] New device joined network: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor
+[2026-03-11 23:01:11] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:21] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:31] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:42] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:01:55] ⚠ Unknown device detected: 82-d9-e7-8c-9f-9e | Vendor: Unknown Vendor | IP: 10.127.49.172 | Host: Unknown Host
+[2026-03-11 23:01:55] New device joined network: 82-d9-e7-8c-9f-9e | Vendor: Unknown Vendor
+[2026-03-11 23:02:06] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:02:06] New device joined network: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor
+[2026-03-11 23:02:20] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:02:30] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:06:30] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:06:30] New device joined network: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor
+[2026-03-11 23:06:40] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:06:51] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:07:01] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:07:11] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:07:21] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:07:32] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-11 23:07:42] ⚠ Unknown device detected: b2-4d-7d-50-38-93 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:54:59] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:54:59] New device joined network: da-2a-58-fe-36-df | Vendor: Unknown Vendor
+[2026-03-12 22:55:10] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:55:21] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:55:31] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:55:41] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:55:51] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:56:02] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:56:12] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 22:56:22] ⚠ Unknown device detected: da-2a-58-fe-36-df | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:16:05] New device joined network: da-2a-58-fe-36-df | Vendor: Unknown Vendor
+[2026-03-12 23:29:30] New device joined network: da-2a-58-fe-36-df | Vendor: Unknown Vendor
+[2026-03-12 23:36:12] New device joined network: da-2a-58-fe-36-df | Vendor: Unknown Vendor
+[2026-03-12 23:38:07] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:07] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:38:07] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-12 23:38:18] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:18] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:38:28] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:28] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:38:38] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:38] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:38:49] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:49] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:38:59] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:38:59] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:39:09] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:39:09] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:39:19] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:39:19] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:39:29] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:39:29] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:39:40] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:39:40] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:39:50] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:39:50] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:40:00] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:40:00] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:40:16] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:40:16] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:40:16] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-12 23:40:26] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:40:26] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:40:44] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:40:44] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:40:44] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-12 23:40:55] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:40:55] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor | IP: 10.58.88.134 | Host: Unknown Host
+[2026-03-12 23:51:13] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:14] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:14] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-12 23:51:30] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:31] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:42] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:43] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:53] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:51:54] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:04] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:05] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:16] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:17] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:27] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:28] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:39] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:40] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:50] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:52:51] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:01] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:02] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:12] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:13] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:24] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:25] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:35] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:36] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:46] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:47] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:58] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:53:59] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:09] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:10] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:20] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:21] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:32] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:33] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-12 23:54:43] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:05] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:05] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:13:15] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:25] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:36] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:46] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:13:56] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:07] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:17] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:27] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:37] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:47] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:14:58] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:15:08] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:15:19] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:15:29] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:15:39] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:15:49] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:00] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:10] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:20] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:31] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:41] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:16:41] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:16:52] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:19:25] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:19:25] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:19:35] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:35:03] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:35:03] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:35:13] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:37:55] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:37:55] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:38:06] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:38:23] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:38:23] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:38:42] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:38:42] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:38:53] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:39:03] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:39:13] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:39:23] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:49:23] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-13 00:49:23] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
+[2026-03-13 00:49:39] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134

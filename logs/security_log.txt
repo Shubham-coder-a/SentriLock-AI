@@ -210,3 +210,27 @@
 [2026-03-13 00:49:23] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
 [2026-03-13 00:49:23] New device joined network: 6e-89-72-e0-eb-f4 | Vendor: Unknown Vendor
 [2026-03-13 00:49:39] ⚠ Unknown device detected: 6e-89-72-e0-eb-f4 | IP: 10.58.88.134
+[2026-03-14 19:24:32] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:24:32] New device joined network: 36-f4-f2-b8-b0-ac | Vendor: Unknown Vendor
+[2026-03-14 19:24:53] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:25:15] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:25:36] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:25:55] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:26:18] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:26:39] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:59:43] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 19:59:43] New device joined network: 36-f4-f2-b8-b0-ac | Vendor: Unknown Vendor
+[2026-03-14 20:01:26] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:04:07] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:04:07] New device joined network: 36-f4-f2-b8-b0-ac | Vendor: Unknown Vendor
+[2026-03-14 20:04:27] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:04:50] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:05:14] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:05:34] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:05:54] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:06:15] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 20:06:35] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 21:05:04] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 21:05:04] New device joined network: 36-f4-f2-b8-b0-ac | Vendor: Unknown Vendor
+[2026-03-14 21:05:27] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178
+[2026-03-14 21:05:52] ⚠ Unknown device detected: 36-f4-f2-b8-b0-ac | IP: 10.128.35.178

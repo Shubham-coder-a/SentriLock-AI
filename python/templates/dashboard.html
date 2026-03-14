@@ -745,7 +745,7 @@
                 <table>
                     <thead>
                         <tr>
-                            <th>#</th>
+                            <th>ID</th>
                             <th>IP Address</th>
                             <th>MAC Address</th>
                             <th>Vendor</th>
@@ -787,6 +787,37 @@
                     <span class="empty-icon">📡</span>
                     <div class="empty-title">No devices detected</div>
                     <div class="empty-sub">Waiting for network scan results…</div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        <!-- ── Intruder Detection Card ──────────────────────────────── -->
+        <div class="dashboard-card" style="margin-top: 24px;">
+            <div class="card-header">
+                <div class="card-header-left">
+                    <span class="tl tl-red"></span>
+                    <span class="tl tl-yellow"></span>
+                    <span class="tl tl-green"></span>
+                    <span class="card-title">Intruder Detection System</span>
+                </div>
+            </div>
+            <div class="intruder-body" style="padding: 24px; text-align: center; background: rgba(56, 189, 248, 0.02);">
+                {% if intruder_image %}
+                <div style="display: inline-block; border: 1px solid var(--accent); border-radius: var(--radius-lg); padding: 12px; background: rgba(6, 13, 27, 0.8); box-shadow: 0 0 20px var(--accent-glow);">
+                    <p style="color: var(--accent); font-weight: 600; margin-bottom: 12px; font-family: var(--font-mono); font-size: 0.85rem; letter-spacing: 0.05em; text-transform: uppercase; display: flex; align-items: center; justify-content: center; gap: 8px;">
+                        <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background:var(--red); box-shadow:0 0 8px var(--red); animation: pulseDot 1.5s infinite;"></span>
+                        Latest Intruder Capture
+                    </p>
+                    <img src="{{ url_for('intruder_files', filename=intruder_image) }}" 
+     alt="Intruder"
+     style="max-width:100%;border-radius:8px"
+     width="400">
+                </div>
+                {% else %}
+                <div class="empty-state" style="padding: 32px 20px;">
+                    <span class="empty-icon" style="font-size: 2.5rem; margin-bottom: 12px; display: block; opacity: 0.5;">🛡️</span>
+                    <div class="empty-title" style="color: var(--text-primary); font-size: 1.1rem;">No intruder detected</div>
+                    <div class="empty-sub" style="font-family: var(--font-mono); font-size: 0.75rem; margin-top: 8px; color: var(--green);">Secure · Monitoring Active</div>
                 </div>
                 {% endif %}
             </div>

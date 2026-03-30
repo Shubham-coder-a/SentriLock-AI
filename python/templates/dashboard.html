@@ -713,10 +713,25 @@
                 </div>
                 <div class="stat-body">
                     <div class="stat-label">Intruders / Unknown</div>
-                    <div class="stat-value threat">{{ unknown }}</div>
+                    <div class="stat-value threat">{{ intruder_count }}</div>     
                     <div class="stat-meta">flagged for review</div>
                 </div>
             </div>
+        </div>
+        <h3 style="margin-top:30px;color:#38bdf8">Intruder History</h3>
+        
+        <div style="display:flex;flex-wrap:wrap;gap:15px;justify-content:center">
+        
+            {% for img in gallery %}
+        
+            <img src="{{ url_for('intruder_files', filename=img) }}" width="120" style="
+             border-radius:8px;
+             border:2px solid #1e4a7a;
+             box-shadow:0 0 10px rgba(56,189,248,0.3);
+             ">
+        
+            {% endfor %}
+        
         </div>
 
         <!-- ── Main Dashboard Card ──────────────────────────────────── -->
@@ -812,10 +827,11 @@
      alt="Intruder"
      style="max-width:100%;border-radius:8px"
      width="400">
+     
                 </div>
                 {% else %}
                 <div class="empty-state" style="padding: 32px 20px;">
-                    <span class="empty-icon" style="font-size: 2.5rem; margin-bottom: 12px; display: block; opacity: 0.5;">🛡️</span>
+                    <span class="empty-ico10987 n" style="font-size: 2.5rem; margin-bottom: 12px; display: block; opacity: 0.5;">🛡️</span>
                     <div class="empty-title" style="color: var(--text-primary); font-size: 1.1rem;">No intruder detected</div>
                     <div class="empty-sub" style="font-family: var(--font-mono); font-size: 0.75rem; margin-top: 8px; color: var(--green);">Secure · Monitoring Active</div>
                 </div>
@@ -834,5 +850,9 @@
 
     </div>
 </body>
-
+<script>
+    setInterval(function () {
+            location.reload();
+        }, 5000);
+</script>
 </html>

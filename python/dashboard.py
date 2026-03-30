@@ -33,6 +33,31 @@ def get_latest_intruder():
     return latest
 
 
+# get intruder gallery images
+def get_intruder_gallery():
+
+    if not os.path.exists(INTRUDER_FOLDER):
+        return []
+
+    files = os.listdir(INTRUDER_FOLDER)
+
+    files.sort(reverse=True)
+
+    return files[:6]
+
+
+# count intruders
+def count_intruders(devices):
+
+    count = 0
+
+    for d in devices:
+        if d["status"] != "Known":
+            count += 1
+
+    return count
+
+
 @app.route("/")
 def home():
 
@@ -40,10 +65,16 @@ def home():
 
     intruder_image = get_latest_intruder()
 
+    gallery = get_intruder_gallery()
+
+    intruder_count = count_intruders(devices)
+
     return render_template(
         "dashboard.html",
         devices=devices,
-        intruder_image=intruder_image
+        intruder_image=intruder_image,
+        gallery=gallery,
+        intruder_count=intruder_count
     )
 
 
